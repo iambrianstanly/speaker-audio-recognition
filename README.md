@@ -16,8 +16,26 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/speaker-audio-recognition.git
+   git clone https://github.com/yourus- ername/speaker-audio-recognition.git
    
 2. **Navigate to project directory:**
    ```bash
    cd speaker-audio-recognition
+
+3. **install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+
+## Usage
+
+1. **Prepared Data:**
+- Ensure dataset in correct format
+2. **Train:**
+  ```bash
+  python train.py
+3. **Test:**
+   ```bash
+   python pred.py 'file/path'
+
+## Evaluation
+The model attained 97% accuracy
