@@ -30,9 +30,11 @@ To run this project locally, follow these steps:
 
 1. **Prepared Data:**
 - Ensure dataset in correct format
+  
 2. **Train:**
   ```bash
   python train.py
+  
 3. **Test:**
    ```bash
    python pred.py file/path
