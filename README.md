@@ -16,8 +16,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/speaker-audio-recognition.git'''
+   git clone https://github.com/yourusername/speaker-audio-recognition.git
    
 2. **Navigate to project directory:**
-  ```bash
-  cd speaker-audio-recognition'''
+   ```bash
+   cd speaker-audio-recognition
