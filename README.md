@@ -29,11 +29,11 @@ To run this project locally, follow these steps:
 ## Usage
 
 1. **Prepared Data:**
-- Ensure dataset in correct format
+   - Ensure dataset in correct format
   
 2. **Train:**
-  ```bash
-  python train.py
+   ```bash
+   python train.py
    ```
 3. **Test:**
    ```bash
