@@ -34,10 +34,11 @@ To run this project locally, follow these steps:
 2. **Train:**
   ```bash
   python train.py
-  
+   ```
 3. **Test:**
    ```bash
    python pred.py file/path
+   ```
 
 ## Evaluation
 The model attained 97% accuracy
