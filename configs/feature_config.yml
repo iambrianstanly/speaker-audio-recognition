@@ -1,0 +1,6 @@
+train_dir: data/train
+test_dir: data/test
+scaler_path: models/standard_scaler.joblib
+train_save_path: data/processed/train.npz
+valid_save_path: data/processed/valid.npz
+test_save_path: data/processed/test.npz

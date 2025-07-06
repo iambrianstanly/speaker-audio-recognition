@@ -1,0 +1,13 @@
+mode: train
+train_dir: data/processed/train.npz
+valid_dir: data/processed/valid.npz
+buffer_size: 100
+batch_size: 32
+input_shape: [32,13]
+n_class: 5
+loss: sparse_categorical_crossentropy
+optimizer: nadam
+epochs: 5
+checkpoint_path: models/best_model
+log_dir: ./logs
+

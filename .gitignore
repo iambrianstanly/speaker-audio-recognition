@@ -1,0 +1,6 @@
+data/
+__pycache__/
+env/
+configs/eval_config.yml
+models/
+output
